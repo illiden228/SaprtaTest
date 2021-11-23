@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 329bff432341f624e8ec5a2b2c36ce58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8547943403379757220
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_0
+  - first:
+      213: -8590484805576805410
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_1
+  - first:
+      213: 8201147696707067267
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_2
+  - first:
+      213: -4204545064726632395
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_3
+  - first:
+      213: 1503517443313941631
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_4
+  - first:
+      213: 3537315040212669491
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_5
+  - first:
+      213: -5589873569976870634
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_6
+  - first:
+      213: -4048329835664471948
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_7
+  - first:
+      213: 8082552264075591886
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_8
+  - first:
+      213: -6004536677425779261
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_9
+  - first:
+      213: -2107819681614409227
+    second: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1426
+        width: 539
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe76973ca9f5980800000000000000
+      internalID: -8547943403379757220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_1
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1425
+        width: 424
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3343b659778c880800000000000000
+      internalID: -8590484805576805410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_2
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1419
+        width: 575
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ddcbce06450d170800000000000000
+      internalID: 8201147696707067267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 721
+        width: 523
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e8de4a8476a5c0800000000000000
+      internalID: -4204545064726632395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 774
+        width: 524
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cb45216219dd410800000000000000
+      internalID: 1503517443313941631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_5
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 712
+        width: 596
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d58e9941171130800000000000000
+      internalID: 3537315040212669491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 541
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6191f22ca97cc62b0800000000000000
+      internalID: -5589873569976870634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 61
+        width: 494
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788a93a67171d7c0800000000000000
+      internalID: -4048329835664471948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_8
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 385
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec041c2067efa2070800000000000000
+      internalID: 8082552264075591886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_9
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 62
+        width: 540
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd6b3d84b99baca0800000000000000
+      internalID: -6004536677425779261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-vegetarian-cuisine-fruit-food-watercolor-fruit-5ad0d8177c8016.74425054152363624751_10
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 363
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1dbc2da258fb2e0800000000000000
+      internalID: -2107819681614409227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
